@@ -6,7 +6,7 @@
 
 ## 用法
 
-1.修改hosts文件,增加如下几行(之前关于pixiv.net的映射应该删除):
+1.修改hosts文件,增加如下几行(原来hosts文件中的关于pixiv.net的映射应该删除):
 
 127.0.0.1 www.pixiv.net  
 210.140.131.219 example.com

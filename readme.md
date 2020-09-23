@@ -8,7 +8,7 @@
 
 1.修改hosts文件,增加如下几行(之前关于pixiv.net的映射应该删除):
 
-127.0.0.1 www.pixiv.net
+127.0.0.1 www.pixiv.net  
 210.140.131.219 example.com
 
 2.浏览器导入根证书app.crt(证书文件在本目录下)
